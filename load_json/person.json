@@ -1,0 +1,37 @@
+[
+       {
+        "name" : "Sarvesh",
+        "age" : "20",
+        "height": "165",
+        "gender" : "male",
+        "hair_color": "black"
+    },
+    {
+        "name" : "Ansh",
+        "age" : "20",
+        "height": "179",
+        "gender" : "male",
+        "hair_color": "white"
+    },
+    {
+        "name" : "Anas",
+        "age" : "20",
+        "height": "170",
+        "gender" : "male",
+        "hair_color": "white"
+    },
+    {
+        "name" : "Animesh",
+        "age" : "20",
+        "height": "180",
+        "gender" : "male",
+        "hair_color": "black"
+    },
+    {
+        "name" : "Arpit",
+        "age" : "20",
+        "height": "163",
+        "gender" : "male",
+        "hair_color": "white"
+    }
+]
